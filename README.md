@@ -1,4 +1,4 @@
-# Securing a Web MVC (Servlet) Application
+# Sample Securing a Web MVC (Servlet) Application
 
 * Java 17
 * Maven 3.8.2
